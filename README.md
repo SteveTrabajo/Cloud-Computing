@@ -1,6 +1,6 @@
 # Cloud Computing
 
-Coursework for the Cloud Computing course (Semester 9, Braude).
+Coursework for the Cloud Computing course (Semester 6, Braude).
 Mostly Jupyter notebooks plus the homework write-ups and their source papers.
 
 ## Layout
